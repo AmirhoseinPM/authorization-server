@@ -1,0 +1,2 @@
+سلام ممکنه با استفاده از spring authorization server یک سرویس احراز هویت oauth2 برام بنویسی ؟
+ با استفاده کردن از یک h2-embeded به جای حافظه موقت برای اطلاعات RegisteredClient, User, AUTHORIZATION, AUTHORIZATION_CONSENT استفاده کنی و پیکربندی های لازم برای پشتیبانی از client_credetials و authorization_code grant_type رو هم در نظربگیری.
